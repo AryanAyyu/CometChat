@@ -28,8 +28,8 @@ This includes reviewing:
 ## 📁 Repository Structure
 /cometchat
 │
-├── README.md
-└── CometChat_UI_Kit_Builder_Assessment.pdf
+├── README.md<br/>
+└── CometChat_UI_Kit_Builder_Assessment.pdf<br/>
 
 
 ---
